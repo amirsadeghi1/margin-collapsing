@@ -1,0 +1,28 @@
+.mb-30px {
+    margin-bottom: 30px;
+    background-color: hsl(300, 100%, 30%);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.mt-40px {
+    margin-top: 40px;
+    background-color: hsl(300, 100%, 30%);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.m-40{
+    margin: 30px;
+    background-color: hsl(300, 100%, 30%);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.container {
+    color: yellow;
+    background-color: purple;
+    padding: 1em;
+    width: fit-content;
+    border-radius: 15px;
+}
